@@ -5,12 +5,16 @@
 
       npm install –g typescript
       
-* To check version: 
+* To check version:
+
             tsc –v
+            
 * To compile Typescript file
-        tsc filename.ts
+
+            tsc filename.ts
 * To create configuration file
-        tsc --init
+ 
+            tsc --init
         
 * If you get compile error in local-machine
 * You can run this in PowerShell command. Be sure to run it as administrator:
